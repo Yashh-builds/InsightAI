@@ -29,10 +29,33 @@ AI-powered Data Analyst Agent built using Python, Streamlit, Pandas, Plotly, and
 
 ## How to Run
 
-1. Install dependencies
+### Install Dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
-2. Run the application
+### Run the Application
 
+```bash
 streamlit run backend/app.py
+```
+
+## Project Structure
+
+```text
+InsightAI/
+│
+├── backend/
+│   ├── app.py
+│   ├── main.py
+│   └── test.py
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+```
+
+## Author
+
+Yash Doifode
